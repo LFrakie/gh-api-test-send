@@ -1,4 +1,3 @@
-
 ---
 sur: https://lfrakie.github.io/data-temp-stor
 image: "/uploads/docs-icon.jpg"
